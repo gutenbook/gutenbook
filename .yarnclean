@@ -1,3 +1,0 @@
-# ignore unused types causing type issues, installed by `@types/styled-components`
-# @see https://github.com/DefinitelyTyped/DefinitelyTyped/issues/33311
-@types/react-native
