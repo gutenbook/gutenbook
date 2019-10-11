@@ -1,4 +1,3 @@
-module.exports = {
-  preset: `ts-jest`,
-  testMatch: [`**/*.test.ts?(x)`],
-};
+const jestConfig = require("@itsjonq/zero/jest");
+
+module.exports = Object.assign(jestConfig, {});

@@ -1,3 +1,3 @@
 module.exports = {
-  extends: '@jameslnewell/eslint-config/react',
+	extends: "@jameslnewell/eslint-config/react",
 };
