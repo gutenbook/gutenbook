@@ -1,4 +1,7 @@
 /**
+ * Forked + modified from:
+ * https://github.com/ahmadawais/create-guten-block
+ *
  * Start
  *
  * The create-guten-block CLI starts here.
