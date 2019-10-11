@@ -7,6 +7,7 @@
 		"format": "zero format",
 		"lint": "zero lint",
 		"lerna": "yarn && lerna bootstrap",
+		"precommit": "zero pre-commit",
 		"build": "lerna run build"
 	},
 	"workspaces": [
